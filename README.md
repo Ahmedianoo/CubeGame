@@ -10,9 +10,7 @@ Welcome to **Cube Game** – a minimalist Unity-based game where you must avoid 
 
 ## 📽️ Demo Video
 
-[![Watch the gameplay demo](https://github.com/Ahmedianoo/CubeGame/releases/download/v1.0.0/01.png)](https://github.com/Ahmedianoo/CubeGame/releases/download/v1.0.0/CUBE.mp4)
-
-> Click the image to watch the video!
+🎥 [Watch the gameplay demo](https://github.com/Ahmedianoo/CubeGame/releases/download/v1.0.0/CUBE.mp4)
 
 ---
 
