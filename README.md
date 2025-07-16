@@ -28,7 +28,7 @@ Here are some in-game screenshots:
 
 ## 🧠 How to Play
 
-- 🕹️ Use **arrow keys** or **A/D** to move.
+- 🕹️ Use **A/D** to move.
 - 🚫 Avoid obstacles and don’t let them hit you.
 - 🧠 Each level gets more challenging!
 
